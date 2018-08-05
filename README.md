@@ -35,8 +35,10 @@ function as input and squares the result.
 
 ### Code - 
 #### Scala#2_Assignment#1_Task#3.1_Inheritance.scala
+#### Scala#2_Assignment#1_Task#3.3_Partial_Fn.scala
 ### Execution screenshot - 
 #### Scala#2_Assignment#1_Task#3.1_Inheritance_Screenshot.png
+#### Scala#2_Assignment#1_Task#3.3_Partial_Screenshot.png
 
 # Task 4
 Write a program to print the prices of 4 courses of Acadgild : Android-12999,Big Data
